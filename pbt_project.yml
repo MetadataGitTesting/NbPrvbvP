@@ -1,0 +1,57 @@
+name: glen.price
+description: methodical
+version: 0.0.1
+author: ivhvltgz.lknuthzl@bdkhhhen.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: glenprice
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 22:07:31'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 22:07:31'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T22:07:31.137102Z'
+  name: plibMaven
+  version: 8.4.0-SNAPSHOT
+  id: '1693457327'
+  createdAt: '2024-10-24T22:07:31.137102Z'
+  type: plibMaven
+projectDependencies:
+  '353':
+    projectUID: 353
+    projectName: vito.turcotte
+    repositoryPath: gitUri=http://gitserver:3000/dev_P7e2Ybs8_team_568/dev_P7e2Ybs8_project_353.git&subPath=
+    version: vito.turcotte/2.68.251
+    isDefault: false
+    author: null
+    createdAt: '2024-10-24 22:07:30'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
